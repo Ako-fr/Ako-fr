@@ -1,5 +1,5 @@
-### <img src="https://cdn.discordapp.com/attachments/864281732257939457/864923800150999060/image1.gif">
-### <h3> ㅤ"Chacun sa vie, chacun ses choix"</h3>
+### <p align="center"><img src="https://cdn.discordapp.com/attachments/864281732257939457/864923800150999060/image1.gif"></p>
+### <p align="center"><h3>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ"Chacun sa vie, chacun ses choix"</h3></p>
 ### <h1>📚 - Information</h1>
 ### <p align="center">🎓 - Lycée Général et Technologique</p>
 ### <p align="center">🎴 - Cyber Sécurite & Devloppement </p>
